@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=saikrishnauggi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0FB2FB&center=true&vCenter=true&width=490&lines=Hey,+I'm+Sai+Krishna+Uggi+%F0%9F%91%8B;Student+Engineer+and+Problem+Solver;Passionate+about+Tech+%F0%9F%9A%80;Always+Learning+New+Things" alt="Typing SVG Animated Role" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0FB2FB&center=true&vCenter=true&width=490&lines=Hey,+I'm+Sai+Krishna+Uggi+%F0%9F%91%8B;Engineer+and+Problem+Solver;Passionate+about+Tech+%F0%9F%9A%80;Always+Learning+New+Things" alt="Typing SVG Animated Role" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/saikrishnauggi/saikrishnauggi/main/assets/wave.gif" width="40" alt="👋" />
