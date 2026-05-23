@@ -1,67 +1,230 @@
-<!-- SECTION A: ANIMATED HEADER & WAVING GREETING & VISITOR COUNTER -->
+<h1 align="center">Sai Krishna Uggi</h1>
+
+<h3 align="center">
+Backend-Focused Software Engineer | Java | Spring Boot | Microservices | AI & ML
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikrishnauggi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0FB2FB&center=true&vCenter=true&width=490&lines=Hey,+I'm+Sai+Krishna+Uggi+%F0%9F%91%8B;Engineer+and+Problem+Solver;Passionate+about+Tech+%F0%9F%9A%80;Always+Learning+New+Things" alt="Typing SVG Animated Role" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saikrishnauggi/saikrishnauggi/main/assets/wave.gif" width="40" alt="👋" />
-</p>
-
-<!-- SECTION B: ABOUT ME -->
-## 🙋‍♂️ About Me
-
-Hi, I'm **Sai Krishna Uggi**! I'm a passionate student driven by curiosity and tech innovation. I love building robust backend solutions and delightful user experiences.
-
-- 🧩 Love solving challenging problems
-- 🎮 Gaming is my stress-buster
-- 🌏 Dreaming to travel the world
-- ☕ Tea > Coffee (always!)
-
-<!-- SECTION C: TECH STACK BADGES -->
-## 🛠️ Tech Stack
-
-**Frontend:**  
-[![React](https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=222)](https://react.dev)
-
-**Backend:**  
-[![Java](https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=fff)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&style=for-the-badge&logo=spring-boot&logoColor=fff)](https://spring.io/projects/spring-boot)
-[![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=for-the-badge&logo=spring&logoColor=fff)](https://microservices.io/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=fff)](https://python.org)
-
-**Database:**  
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=fff)](https://www.mysql.com/)
-
-**Tools:**  
-[![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
-
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-krishna-uggi-30037525a)
-
-<!-- SECTION E: GITHUB STATS -->
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saikrishnauggi&show_icons=true&theme=tokyonight&hide_border=false" alt="Sai Krishna Uggi's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=saikrishnauggi&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saikrishnauggi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saikrishnauggi&theme=onedark&no-frame=true&row=1&margin-w=7&margin-h=10" alt="GitHub Profile Trophies" />
+  <a href="https://github.com/saikrishnauggi">
+    <img src="https://komarev.com/ghpvc/?username=saikrishnauggi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
 </p>
 
 ---
-<p align="center">
-  <b>Let's connect and build something amazing! 🔗</b><br/>
-  <a href="https://linkedin.com/in/sai-krishna-uggi-30037525a">LinkedIn</a>
+
+# About Me
+
+Backend-focused developer with hands-on experience building scalable web applications using Java, Spring Boot, MySQL, and React.
+
+Strong interest in backend engineering, microservices, distributed systems, and AI-powered applications. Currently exploring cloud technologies and scalable system design concepts.
+
+- Building secure REST APIs using Spring Boot
+- Working with JWT Authentication & Role-Based Authorization
+- Interested in scalable backend architectures
+- Exploring Docker, AWS, Kafka, Redis, and System Design
+- Passionate about Artificial Intelligence & Machine Learning
+
+---
+
+# Tech Stack
+
+## Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
+
+- Java
+- Spring Boot
+- REST APIs
+- Spring Security
+- JWT Authentication
+- Microservices
+- Exception Handling
+- Pagination & Filtering
+- Audit Logging
+
+---
+
+## Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+</p>
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+- Database Relationships
+- CRUD Operations
+- Query Optimization Basics
+
+---
+
+## AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- Python
+- Machine Learning
+- Data Preprocessing
+- Model Training
+- Classification Algorithms
+- SMOTE Data Balancing
+- Model Evaluation
+
+---
+
+## Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+</p>
+
+- Git & GitHub
+- Postman
+- VS Code
+- Docker Basics
+
+---
+
+# Featured Projects
+
+## Pharmacy Ordering System
+
+### Tech Stack
+- Java
+- Spring Boot
+- React.js
+- MySQL
+
+### Features
+- Secure JWT Authentication
+- Role-Based Authorization
+- Medicine & Inventory Management
+- Order Processing Workflow
+- Prescription Upload System
+- Admin Dashboard
+- Pagination & Search
+- Audit Logging
+
+### Backend Concepts Used
+- REST API Development
+- DTO Mapping
+- Layered Architecture
+- Spring Security
+- Exception Handling
+- Database Relationships
+
+---
+
+## Thyroid Disease Detection System
+
+### Tech Stack
+- Python
+- Machine Learning
+- Naive Bayes
+- Random Forest
+- SVM
+
+### Features
+- Thyroid Disease Prediction
+- Healthcare Dataset Analysis
+- Data Balancing using SMOTE
+- GUI-Based Prediction System
+- Model Performance Evaluation
+
+### ML Concepts Used
+- Classification Algorithms
+- Feature Engineering
+- Data Preprocessing
+- Accuracy Evaluation
+
+---
+
+# Currently Learning
+
+- Docker
+- AWS Cloud
+- Kafka
+- Redis
+- System Design
+- Kubernetes Basics
+- Deep Learning
+
+---
+
+# Certifications
+
+- Applied Generative AI — Infosys Springboard
+- Artificial Intelligence — EDUNET Foundation
+
+---
+
+# GitHub Analytics
+
 <p align="center">
-  <i>Thanks for visiting my profile!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=saikrishnauggi&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://streak-stats.demolab.com?user=saikrishnauggi&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnauggi&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# Career Objective
+
+Aspiring Software Engineer with practical experience in Java backend development, Spring Boot, REST APIs, Microservices fundamentals, and AI-powered applications.
+
+Interested in building scalable backend systems and contributing to impactful software engineering projects.
+
+---
+
+# Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sai-krishna-uggi-30037525a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:saikrishnauggi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/saikrishnauggi">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# Focus Areas
+
+- Backend Engineering
+- Spring Boot Applications
+- REST API Development
+- Secure Authentication Systems
+- Microservices Architecture
+- AI & Machine Learning Applications
+
+---
+
+<p align="center">
+  Open to Backend Developer, Java Developer, and Software Engineering opportunities.
 </p>
