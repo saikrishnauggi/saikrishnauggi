@@ -204,8 +204,8 @@ Interested in building scalable backend systems and contributing to impactful so
   </a>
 
   <a href="mailto:saikrishnauggi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-saikrishnauggi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
   <a href="https://github.com/saikrishnauggi">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
