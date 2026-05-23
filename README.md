@@ -32,6 +32,7 @@ Hi, I'm **Sai Krishna Uggi**! I'm a passionate student driven by curiosity and t
 [![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=fff)](https://python.org)
 
 **Database:**
+
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=fff)](https://www.mysql.com/)
 
 **Tools:**  
