@@ -203,8 +203,8 @@ Interested in building scalable backend systems and contributing to impactful so
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:saikrishnauggi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:saikrishnauggi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
   <a href="https://github.com/saikrishnauggi">
